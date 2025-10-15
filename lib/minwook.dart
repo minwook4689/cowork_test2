@@ -9,7 +9,7 @@ class Minwook {
   }
 }
 
-void main() {
+void main() { 
   final person = Minwook();
   person.sayHello();
 }
